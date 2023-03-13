@@ -85,7 +85,14 @@ a:hover{
     color: hsl(179, 100%, 13%);
 }
 
+.card h1{
+    font-size: 2.5rem;
+}
 .card h2{
+    font-size: 2.5rem;
+}
+
+.card h3{
     font-size: 2.5rem;
 }
 
